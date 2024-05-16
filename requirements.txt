@@ -1,0 +1,8 @@
+datasets
+transformers==4.38.2
+accelerate==0.27.2
+bitsandbytes
+trl
+peft==0.4.0
+streamlit
+codebleu
